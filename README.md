@@ -1,5 +1,5 @@
 # Create a Minecraft Server on Google Colab
-
+# Supports 1.21
 This repository provides scripts to create and run a Minecraft server on Google Colab using Google Drive for storage. The setup includes:
 
 1. **Downloading and setting up the server**: The script downloads the necessary server files and sets up the server in your Google Drive.
